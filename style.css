@@ -12,7 +12,7 @@ html, body {
 }
 
 header {
-  background: #20232a;
+  background: #000000;
   color: #ffead7;
   padding: 2rem;
   text-align: center;
@@ -24,6 +24,11 @@ main {
   margin: auto;
   flex: 1;
 }
+
+h1 {
+    font-family: 'Special Elite', Verdana, Geneva, Tahoma, sans-serif;
+}
+
 ul {
   padding-left: 1.5rem;
 }
